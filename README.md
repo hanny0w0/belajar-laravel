@@ -19,3 +19,9 @@ Simple Library Information System built with Laravel Framework.
     git clone [https://github.com/hanny0w0/belajar-laravel.git](https://github.com/hanny0w0/belajar-laravel.git)
     cd belajar-laravel
     ```
+
+## Author
+
+- **Hanny Fadillah Septiani (hanny0w0)**
+- NPM: 2410631250051
+- S1 Sistem Informasi, Universitas Singaperbangsa Karawang
